@@ -1,0 +1,10 @@
+/Users/ginotateo/Downloads/assignment-2-chunklist-GinoTateo-3-main/cmake-build-debug/CMakeFiles/catch2_main.dir
+/Users/ginotateo/Downloads/assignment-2-chunklist-GinoTateo-3-main/cmake-build-debug/CMakeFiles/ChunkList_Driver.dir
+/Users/ginotateo/Downloads/assignment-2-chunklist-GinoTateo-3-main/cmake-build-debug/CMakeFiles/ChunkList_Test.dir
+/Users/ginotateo/Downloads/assignment-2-chunklist-GinoTateo-3-main/cmake-build-debug/CMakeFiles/Constructor_Test.dir
+/Users/ginotateo/Downloads/assignment-2-chunklist-GinoTateo-3-main/cmake-build-debug/CMakeFiles/Append_Remove_Test.dir
+/Users/ginotateo/Downloads/assignment-2-chunklist-GinoTateo-3-main/cmake-build-debug/CMakeFiles/Index_Test.dir
+/Users/ginotateo/Downloads/assignment-2-chunklist-GinoTateo-3-main/cmake-build-debug/CMakeFiles/Iterator_Test.dir
+/Users/ginotateo/Downloads/assignment-2-chunklist-GinoTateo-3-main/cmake-build-debug/CMakeFiles/Template_Test.dir
+/Users/ginotateo/Downloads/assignment-2-chunklist-GinoTateo-3-main/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/ginotateo/Downloads/assignment-2-chunklist-GinoTateo-3-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir

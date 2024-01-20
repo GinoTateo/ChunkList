@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.17"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ChunkList",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Append_Remove_Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Append_Remove_Test-Debug-29fa2099527a99612bf1.json",
+					"name" : "Append_Remove_Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ChunkList_Driver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ChunkList_Driver-Debug-71bd262180009bc7bd36.json",
+					"name" : "ChunkList_Driver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ChunkList_Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ChunkList_Test-Debug-aece6db925380719e33e.json",
+					"name" : "ChunkList_Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Constructor_Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Constructor_Test-Debug-5c43cfbbf97b7a4df87a.json",
+					"name" : "Constructor_Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Index_Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Index_Test-Debug-e4f6efa36a6a388b49b8.json",
+					"name" : "Index_Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Iterator_Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Iterator_Test-Debug-f0d72a2ecd937098e048.json",
+					"name" : "Iterator_Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Template_Test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Template_Test-Debug-43de645066678e72ab0b.json",
+					"name" : "Template_Test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "catch2_main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-catch2_main-Debug-a8202a8f85220a1192d5.json",
+					"name" : "catch2_main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/ginotateo/Downloads/assignment-2-chunklist-GinoTateo-3-main/cmake-build-debug",
+		"source" : "/Users/ginotateo/Downloads/assignment-2-chunklist-GinoTateo-3-main"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
